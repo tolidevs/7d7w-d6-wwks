@@ -28,10 +28,7 @@ h1 {
 
 }
 
-h2, h3 {
-  /* background-color: rgba(163, 219, 243, 0.5);
-  width: fit-content;
-  font-weight: normal; */
+h2 {
   margin: 1rem 0.2rem;
 }
 
@@ -73,6 +70,11 @@ button {
 }
 
 @media only screen and (max-width: 400px) {
+  h2 {
+    margin: 0.5rem .2rem;
+    font-size: 1rem;
+  }
+
   #quote{
     width: 100vw;
   }
@@ -87,7 +89,5 @@ button {
   -webkit-text-stroke: 0.5px black; 
   color:rgb(255, 238, 21);
 }
-
- 
   
 }
