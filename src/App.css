@@ -37,8 +37,6 @@ h2 {
   font-size: 4rem;
   margin-block-start: auto;
   margin-block-end: auto;
-  /* color: rgb(255, 238, 21);*/
-  /* -webkit-text-stroke: 0.5px rgb(255, 238, 21);  */
   color: 	rgb(119, 151, 172);
 }
 
@@ -56,7 +54,7 @@ button {
 #quote {
   background-color: rgba(256,256,256,0.8);
   max-width: 60vw;
-  color: black;
+  color: #3d4a51;
   font-size: 2rem;
   padding: 10px;
   margin: 1rem 0rem;
@@ -85,9 +83,7 @@ button {
 
   #wwks{
   font-size: 3rem;
-  /* color: rgb(255, 238, 21);*/
-  -webkit-text-stroke: 0.5px black; 
-  color:rgb(255, 238, 21);
+  color:#3d4a51;
 }
   
 }
