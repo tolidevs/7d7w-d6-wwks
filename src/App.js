@@ -31,7 +31,7 @@ function App() {
       <h1>YES YOU KANYE!!</h1>
 
       <div id="intro">
-        <h2>Never has a man embodied unconditional self love like Kanye West</h2>
+        <h2>Never has a man embodied unwavering self belief like Kanye West</h2>
         <h2>If you ever begin to doubt yourself</h2>
         <h2>Find your inner Pablo, and ask yourself</h2>
         <h2 id="wwks">What Would Kanye Say?</h2>
