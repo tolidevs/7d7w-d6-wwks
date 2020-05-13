@@ -67,6 +67,17 @@ button {
   z-index: -1;
 }
 
+@media only screen and (max-width: 800px) {
+  #intro {
+      background-color: rgba(256,256,256, 0.7);
+  }
+
+  #quote{
+    margin: 0.2rem;
+    max-width: fit-content;
+  }
+}
+
 @media only screen and (max-width: 400px) {
   h2 {
     margin: 0.5rem .2rem;
@@ -77,9 +88,7 @@ button {
     width: 100vw;
   }
 
-  #intro {
-      background-color: rgba(256,256,256, 0.7);
-  }
+  
 
   #wwks{
   font-size: 3rem;
